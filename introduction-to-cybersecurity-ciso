@@ -1,1 +1,35 @@
-# Introdução à Cibersegurança - Cisco ## Sobre o Repositório Este repositório foi criado para documentar meu aprendizado durante o curso **Introdução à Cibersegurança**, oferecido pela Cisco Networking Academy. O objetivo é registrar os principais conceitos treinados, resumos dos módulos, reflexões pessoais e conhecimentos adquiridos ao longo da certificação. --- ## Objetivos de Aprendizagem Durante este curso, busco desenvolver conhecimentos fundamentais em: * Conceitos básicos de Cibersegurança * Ameaças e ataques cibernéticos * Proteção de dados e privacidade * Boas práticas de segurança digital * Gerenciamento de riscos * Segurança de redes * Controle de acesso e autenticação * Carreiras na área de Cybersecurity --- ## Estrutura do Repositório ```text . ├── README.md ├── módulo-01.md ├── módulo-02.md ├── módulo-03.md ├── módulo-04.md ├── módulo-05.md └── certificado/ ``` Cada módulo contém: * Resumo do conteúdo * Conceitos aprendidos * Termos técnicos * Aplicações práticas * Reflexões pessoais * Próximos passos de estudo --- ## Progresso | Módulo | Estado | | ------------------------------- | ------ | | Introdução à Cibersegurança | ⏳ | | Ataques, Conceitos e Técnicas | ⬜ | | Proteção de Dados e Privacidade | ⬜ | | Defesa de Redes | ⬜ | | Oportunidades de Carreira | ⬜ | Legenda: * ⬜ Não iniciado * ⏳ Em andamento * ✅ Concluído --- ## Certificação Curso: Introdução à Cibersegurança Plataforma: Cisco Networking Academy Status: Em andamento --- ## Objetivo Profissional Este repositório faz parte da minha jornada de formação em Segurança da Informação, com foco no desenvolvimento das competências controladas para futura atuarmente em áreas como: * SOC (Security Operations Center) * Vulnerability Management * Threat Hunting * Blue Team * Segurança de Redes * Análise de Segurança da Informação --- ## Autor Gabriel de Santana Estudante de Segurança da Informação com foco em Cibersegurança.
+# Introdução à Cibersegurança - Cisco
+## Sobre o Repositório
+Este repositório foi criado para documentar meu aprendizado durante o curso **Introdução à Cibersegurança**, oferecido pela Cisco Networking Academy. 
+O objetivo é registrar os principais conceitos treinados, resumos dos módulos, reflexões pessoais e conhecimentos adquiridos ao longo da certificação.
+---
+## Objetivos de Aprendizagem
+Durante este curso, busco desenvolver conhecimentos fundamentais em: * Conceitos básicos de Cibersegurança * Ameaças e ataques cibernéticos * Proteção de dados e privacidade * Boas práticas de segurança digital * Gerenciamento de riscos * Segurança de redes * Controle de acesso e autenticação * Carreiras na área de Cybersecurity 
+---
+## Estrutura do Repositório 
+```text . 
+├── README.md 
+├── módulo-01.md
+├── módulo-02.md 
+├── módulo-03.md 
+├── módulo-04.md 
+├── módulo-05.md
+└── certificado/ ```
+Cada módulo contém: * Resumo do conteúdo * Conceitos aprendidos * Termos técnicos * Aplicações práticas * Reflexões pessoais * Próximos passos de estudo
+---
+## Progresso 
+| Módulo | Estado | | ------------------------------- | ------ | 
+| Introdução à Cibersegurança | ⏳ | 
+| Ataques, Conceitos e Técnicas | ⬜ |
+| Proteção de Dados e Privacidade | ⬜ |
+| Defesa de Redes | ⬜ | 
+| Oportunidades de Carreira | ⬜ | 
+Legenda: * ⬜ Não iniciado * ⏳ Em andamento * ✅ Concluído
+--- 
+## Certificação Curso: Introdução à Cibersegurança Plataforma: Cisco Networking Academy Status: Em andamento
+---
+## Objetivo Profissional 
+Este repositório faz parte da minha jornada de formação em Segurança da Informação, com foco no desenvolvimento das competências controladas para futura atuarmente em áreas como:
+* SOC (Security Operations Center) * Vulnerability Management * Threat Hunting * Blue Team * Segurança de Redes * Análise de Segurança da Informação 
+--- 
+## Autor Gabriel de Santana Estudante de Segurança da Informação com foco em Cibersegurança.
